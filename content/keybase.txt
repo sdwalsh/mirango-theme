@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/sdwalsh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.mirango.io
+  * I am sdwalsh (https://keybase.io/sdwalsh) on keybase.
+  * I have a public key ASAQ9R6xs9KK_tTYFp9c1-BxOWkAVIN0zULA27Q5IlyJrAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a93dbfd9d490d412db8b611920f56eb718377bdd2a05350e445ccce3fa855fdb0a",
+            "host": "keybase.io",
+            "kid": "012010f51eb1b3d28afed4d8169f5cd7e071396900548374cd42c0dbb439225c89ac0a",
+            "uid": "0516fe881fb6e1ca2c42c61a17d98e19",
+            "username": "sdwalsh"
+        },
+        "service": {
+            "hostname": "www.mirango.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474553125,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474553064,
+        "hash": "beaa07dcc20f081be454cd226bb3fe43aba7a9ec2bdfe96a7539673fe9eb1c1ac56b0aa0fa02c152efff22f043d902f7f416fdc86d8cd565bdec4d3bae42c84f",
+        "seqno": 648434
+    },
+    "prev": "3b6b5f1914d5e3d98863bcc51a37ec0db9ce8b2e6ff881a12a746e29b7330d38",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEPUesbPSiv7U2BafXNfgcTlpAFSDdM1CwNu0OSJciawKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTkzZGJmZDlkNDkwZDQxMmRiOGI2MTE5MjBmNTZlYjcxODM3N2JkZDJhMDUzNTBlNDQ1Y2NjZTNmYTg1NWZkYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTBmNTFlYjFiM2QyOGFmZWQ0ZDgxNjlmNWNkN2UwNzEzOTY5MDA1NDgzNzRjZDQyYzBkYmI0MzkyMjVjODlhYzBhIiwidWlkIjoiMDUxNmZlODgxZmI2ZTFjYTJjNDJjNjFhMTdkOThlMTkiLCJ1c2VybmFtZSI6InNkd2Fsc2gifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5taXJhbmdvLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzQ1NTMxMjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NDU1MzA2NCwiaGFzaCI6ImJlYWEwN2RjYzIwZjA4MWJlNDU0Y2QyMjZiYjNmZTQzYWJhN2E5ZWMyYmRmZTk2YTc1Mzk2NzNmZTllYjFjMWFjNTZiMGFhMGZhMDJjMTUyZWZmZjIyZjA0M2Q5MDJmN2Y0MTZmZGM4NmQ4Y2Q1NjViZGVjNGQzYmFlNDJjODRmIiwic2Vxbm8iOjY0ODQzNH0sInByZXYiOiIzYjZiNWYxOTE0ZDVlM2Q5ODg2M2JjYzUxYTM3ZWMwZGI5Y2U4YjJlNmZmODgxYTEyYTc0NmUyOWI3MzMwZDM4Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA0V4hDeaqCD86TY/mGNz1B6B0mYLuBGK6OdVkP7BinBznn8Z+xxzpT4HHNH5XNnl0CHH6ReJbcUdIPP9juHlKBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO2jhZtcoZtsU0U57ywQ2TPc+VGTF9mBQ0HNiDHWvXu3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sdwalsh
+
+==================================================================
