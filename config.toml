@@ -1,0 +1,14 @@
+languageCode = "en-us"
+title = "Mirango"
+baseurl = "https://www.mirango.io/"
+theme = "mango"
+
+[params]
+author = "Sean Walsh"
+cachebuster = true
+dateform = "Jan 2, 2006"
+email = "sdwalsh@mirango.io"
+github = "https://github.com/sdwalsh"
+highlightjs = true
+lang = "en"
+twitter = "https://twitter.com/mirangomadness"
